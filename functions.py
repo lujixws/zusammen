@@ -18,3 +18,4 @@ def average(num1, num2):
 
 avg = average(2 , 4)
 print(avg)
+// a new line come here
